@@ -7,3 +7,5 @@ Básicamente aprenderemos más sobre Git y GitHub con este proyecto
 # Diego el pro
 
 ## Curso de Diego
+
+DiegoAlexanderSanmartinY actualiza repo como dueno
